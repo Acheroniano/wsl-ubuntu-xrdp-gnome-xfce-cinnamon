@@ -47,4 +47,5 @@
 
 #### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") Siga agora para o arquivo *perplexity-help.md* para seguir a parte *mão na massa* do LAB;
 #### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") Follow now to the *perplexity-help.md* file to follow the *hands-on* part of the LAB;
-![perplexity-help.md](perplexity-help.md)
+[![Files badge](https://img.shields.io/badge/thisisthelab.md-%23000000?logo=markdown&logoColor=blue&labelColor=white)](https://github.com/Acheroniano/wsl-ubuntu-xrdp-gnome-xfce-cinnamon/blob/main/perplexity-help.md)
+
