@@ -1,3 +1,8 @@
+# Desconfigurar o WSL no windows 11;
+
+# Under Construction ignore itens bellow
+
+
 #### 01-prompt-perplexity.ai.jpeg
 
 ![First Prompt](./images/prompt01-perplexity.ai.jpeg)
