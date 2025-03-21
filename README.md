@@ -38,7 +38,7 @@
 
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") Use o comando *systeminfo* para mostrar especificações do computador;
 ######  - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") Use the *systeminfo* command to show computer specifications;
-![Command Systeminfo](./images/0003%20-%20Systeminfo1.jpg)
+![Command Systeminfo](./images/0003%20-%20SystemInfo1.jpg)
 
 ### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") Este lab foi realizado em computador *AMD Ryzen 5 3600 com Windows 11 e 48 Gib de Ram* ;
 ###  - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") This lab was done in a computer with a *AMD Ryzen 5 3600 with Windows 11 and 48 Gb of Ram* ;
